@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NEERAJ-45
 - 👀 I’m interested in Coding , Listening To Songs...
-- 🌱 I’m currently learning: ReactsJs , AngularJs, Flask 
+- 🌱 I’m currently learning: ReactsJs , AngularJs, Flask.
 - 📫 How to reach me - 
 - Instagram Handle @im_neeraj_.17
 - Snapchat  Handle @neeraj_459 
