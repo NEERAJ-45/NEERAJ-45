@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding , Listening To Songs...
 - 🌱 I’m currently learning: ReactsJs , AngularJs, Flask.
 - 📫 How to reach me - 
-- Instagram Handle @im_neeraj_.17
-- Snapchat  Handle @neeraj_459 
+- Instagram Handle @neeraj_.04s
+- 
 
 <!---
 NEERAJ-45/NEERAJ-45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
