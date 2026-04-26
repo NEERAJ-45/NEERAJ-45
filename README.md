@@ -1,9 +1,9 @@
-# 😎 About Me:
-🔧 Currently working on Hustle.ai, an AI-powered job matching platform, and a Mini UPI Peer-to-Peer Payment Simulator with idempotency, fraud detection, and async notifications
-👥 Looking to collaborate on backend-heavy projects involving distributed systems, payment infrastructure, or AI-powered products
-🆘 Looking for help with connecting to early-stage funded startups where production-grade engineering is the standard
-🌱 Currently learning Enterprise Java and distributed system design patterns
-💬 Ask me about building production-ready systems, workflow automation, and shipping real products solo from scratch
+# 😎 About Me:<br><br>
+🔧 Currently working on Hustle.ai, an AI-powered job matching platform, and a Mini UPI Peer-to-Peer Payment Simulator with idempotency, fraud detection, and async notifications<br><br>
+👥 Looking to collaborate on backend-heavy projects involving distributed systems, payment infrastructure, or AI-powered products<br><br>
+🆘 Looking for help with connecting to early-stage funded startups where production-grade engineering is the standard<br><br>
+🌱 Currently learning Enterprise Java and distributed system design patterns<br><br>
+💬 Ask me about building production-ready systems, workflow automation, and shipping real products solo from scratch<br><br>
 ⚡ Fun fact I build solo projects to production standard including architecture, testing, and deployment because I believe the best way to learn engineering is to own the entire system
 
 
